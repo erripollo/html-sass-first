@@ -1,0 +1,16 @@
+$main_color: #66cc33;
+
+h1 {
+  color: $main_color;
+}
+
+p {
+  background-color: $main_color;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: $main_color;
+  cursor: pointer;
+}

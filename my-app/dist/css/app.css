@@ -1,0 +1,14 @@
+h1 {
+  color: #66cc33;
+}
+
+p {
+  background-color: #66cc33;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: #66cc33;
+  cursor: pointer;
+}
